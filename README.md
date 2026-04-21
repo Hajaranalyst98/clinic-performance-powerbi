@@ -114,17 +114,17 @@ Based on the data findings:
 ##  Dashboard Preview
 
 ### Patient Flow & Appointment Efficiency
-![Page 1]
+
 <img width="1316" height="695" alt="page1 png" src="https://github.com/user-attachments/assets/cfc45df1-e456-4d05-a920-6d264b73e6ae" />
 
 
 ### Revenue Lost from Cancellations & No-Shows
-![Page 2]
+
 <img width="1396" height="732" alt="page3 png" src="https://github.com/user-attachments/assets/a1275718-4c2e-498b-af4a-f8079f9ea487" />
 
 
 ### Expenses, Pharmacy & Net Profit
-![Page 3]
+
 <img width="1396" height="732" alt="page3 png" src="https://github.com/user-attachments/assets/7b1f3eba-a550-491f-9b29-15efa8e3c1f8" />
 
 
