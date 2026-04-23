@@ -114,17 +114,50 @@ Based on the data findings:
 ##  Dashboard Preview
 
 ### Patient Flow & Appointment Efficiency
+**Overview:**
+Analyzes 8,000 appointments to evaluate doctor workload, waiting time, and scheduling efficiency.
+
+**Key Findings:**
+
+1 in 4 appointments is wasted (24% no-show/cancel)
+Waiting time (~47 min) is the same for all doctors → scheduling system issue, not doctor performance
+Certain services (Echo, Diabétique tests) create longer delays
+Appointment demand is uneven across days and services
+
+**Insight:**
+The clinic’s main problem is poor scheduling and capacity planning.
 
 <img width="1316" height="695" alt="page1 png" src="https://github.com/user-attachments/assets/cfc45df1-e456-4d05-a920-6d264b73e6ae" />
 
 
 ### Revenue Lost from Cancellations & No-Shows
+**Overview:**
+Measures the financial impact of missed appointments by linking status with service prices.
+
+**Key Findings:**
+
+1.07M MAD lost due to missed appointments
+Petite Chirurgie & Radiologie cause the highest losses
+Some months show higher appointment failure rates
+
+**Insight:**
+Simple appointment confirmation processes could recover significant revenue.
 
 <img width="1396" height="732" alt="page3 png" src="https://github.com/user-attachments/assets/a1275718-4c2e-498b-af4a-f8079f9ea487" />
 
 
 ### Expenses, Pharmacy & Net Profit
+**Overview:**
+Evaluates where revenue comes from, where money is spent, and the clinic’s real profitability.
 
+**Key Findings:**
+
+Pharmacy generates more revenue than medical services
+Expenses consume a large portion of revenue
+Profit margin is 17.5% (below optimal for clinics)
+
+**Insight:**
+The clinic is profitable but financially unbalanced and overly dependent on pharmacy sales.
 <img width="1396" height="732" alt="page3 png" src="https://github.com/user-attachments/assets/7b1f3eba-a550-491f-9b29-15efa8e3c1f8" />
 
 
