@@ -143,7 +143,8 @@ Some months show higher appointment failure rates
 **Insight:**
 Simple appointment confirmation processes could recover significant revenue.
 
-<img width="1396" height="732" alt="page3 png" src="https://github.com/user-attachments/assets/a1275718-4c2e-498b-af4a-f8079f9ea487" />
+<img width="1282" height="725" alt="page2 png" src="https://github.com/user-attachments/assets/25226687-9ea4-418e-a880-413d3c6ec11a" />
+
 
 
 ### Expenses, Pharmacy & Net Profit
